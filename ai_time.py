@@ -24,7 +24,7 @@ while (True):
   
   if city == "Kolkata":
     hour = hour + 5
-    minutes = minutes + 30
+    minutes = minute + 30
 
   if city == "Karachi":
     hour = hour + 5
